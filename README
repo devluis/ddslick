@@ -1,0 +1,21 @@
+Que es ddslick ??
+
+Es un plugin jquery que permite crear menús desplegables personalizados con imagenes y una descripción corta o larga.
+
+
+Caracteristicas
+
+Permite añadir imagenes con una descripción dentro de los menús desplegables.
+Utiliza JSON para rellenar la lista desplegable de opciones del menu.
+Soporta funciones de devolución de llamadas en la selección.
+Funciona tan bien, incluso sin las imágenes o descripciones!
+
+====================================================================================
+
+Datos del Autor
+
+Demo Oficial:
+http://designwithpc.com/Plugins/ddSlick#demo
+
+Autor:
+Prashant Chaudhary
